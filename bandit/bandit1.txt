@@ -1,4 +1,4 @@
-Bandit0 - Bandit1:
+Bandit0 - bandit1:
 
 Instructions : 
 	remote username : bandit0

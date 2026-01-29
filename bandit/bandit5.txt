@@ -1,1 +1,11 @@
-4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+Bandit4 - Bandit5:
+
+Instructions : 
+	password stored in a "--spaces in this filename--" spaced file
+Command : 
+	ssh username@address -p portnumber 
+	file inhere/* | grep ASCII then (ASCII stands for human readable)
+    cat inhere/-file07 
+
+Solution : 
+password => 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw

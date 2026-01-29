@@ -1,1 +1,11 @@
-MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+Bandit2 - Bandit3:
+
+Instructions : 
+	password stored in a "--spaces in this filename--" spaced file
+Command : 
+	ssh username@address -p portnumber 
+	cat <  "--spaces in this filename--" or 
+    more < "--spaces in this filename--"
+
+Solution : 
+password => MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx

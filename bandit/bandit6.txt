@@ -1,1 +1,10 @@
-HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+Bandit5 - Bandit6:
+
+Instructions : 
+    
+Command : 
+	ssh username@address -p portnumber 
+
+
+Solution : 
+password => HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
