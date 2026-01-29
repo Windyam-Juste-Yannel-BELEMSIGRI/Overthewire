@@ -1,1 +1,13 @@
-263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+Bandit1 - Bandit2:
+
+Instructions : 
+	password stored in a "-" file (dash file)
+Command : 
+	ssh username@address -p portnumber 
+	"cat < -" or 
+    "more -"
+
+Solution : 
+password => 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+
